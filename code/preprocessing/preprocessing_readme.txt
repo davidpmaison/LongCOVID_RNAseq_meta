@@ -1,5 +1,6 @@
 README.txt  
 Preprocessing Pipeline for RNA-seq Data (LongCOVID_RNAseq_meta)
+Author: David Maison
 =================================================================
 
 This folder contains scripts for preprocessing bulk RNA-seq data for COVID-19 studies.
