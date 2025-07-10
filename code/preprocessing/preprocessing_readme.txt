@@ -65,7 +65,6 @@ Notes:
 - Run each script in the order shown above.
 - All scripts must be edited before use to adjust file paths, SRR IDs, and reference files.
 - Designed for HPC environments (multi-threaded processing).
-- Minimal console output (no `echo` commands).
 
 If using these scripts, please cite:
 Maison et al., Peripheral Immune Progression to Long COVID is Associated with Mitochondrial Gene Transcription: a Meta-Analysis (2025).
