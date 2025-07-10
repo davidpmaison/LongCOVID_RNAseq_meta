@@ -1,4 +1,5 @@
 # === Differential Expression Analysis ===
+# Author: David Maison
 
 # Load required packages
 library(DESeq2)
