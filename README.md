@@ -8,7 +8,7 @@ This repository contains the results and analysis code for our meta-analysis of 
   Differential expression, Gene Ontology (GO), and KEGG pathway results by comparison.
 
 - `code/`  
-  Scripts for preprocessing, differential expression analysis, gene annotation, and functional analyses.  
+  Scripts for preprocessing, differential expression analysis, gene annotation, functional analyses, and statistical analyses.  
   *All code is provided as templates—you must update file paths and parameters for your datasets.*
 
 ## Usage
