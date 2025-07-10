@@ -1,5 +1,6 @@
 #!/bin/bash
 # RNA-seq Preprocessing Pipeline: FastQC, Trimmomatic
+# Author: David Maison
 # Compatible with high-performance computing environments.
 
 # =========================================
