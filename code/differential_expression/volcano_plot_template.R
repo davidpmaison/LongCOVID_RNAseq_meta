@@ -1,5 +1,5 @@
 # Volcano Plot Template for DESeq2 Differential Expression Results
-# Author: David Maison
+# Author: Maison et al., 2025
 # Usage: Customize file paths, comparison name, and sample sizes below.
 
 # Load required package
