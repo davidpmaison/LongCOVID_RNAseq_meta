@@ -19,6 +19,6 @@ All shell and R scripts are templates. You must adjust file paths, filenames, an
 
 If you use this resource, please cite:
 
-Maison et al., *Peripheral Immune Progression to Long COVID is Associated with Mitochondrial Gene Transcription: a Meta-Analysis* (2025).
+*Peripheral Immune Progression to Long COVID is Associated with Mitochondrial Gene Transcription: a Meta-Analysis* (2025).
 David P. Maison, Vedbar S. Khadka, Isam Mohd-Ibrahim, Michael J. Peluso, Timothy J. Henrich, Youping Deng, Mariana Gerschenson
 
