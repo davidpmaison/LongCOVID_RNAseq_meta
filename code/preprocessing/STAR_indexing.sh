@@ -4,7 +4,7 @@
 # STAR Genome Indexing Script
 # For Human (GRCh38.p13) and SARS-CoV-2 (wuhCor1)
 # ========================================
-# Author: David Maison
+# Author: Maison et al., 2025
 # Human Genome Indexing
 # Downloaded from Ensembl: GRCh38.p13 (Release 109)
 # Reference Genome FASTA and GTF annotation
