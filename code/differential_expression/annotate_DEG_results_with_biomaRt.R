@@ -1,5 +1,5 @@
 # Gene Annotation Script (Template)
-# Author: David Maison
+# Author: Maison et al., 2025
 # Purpose: Annotate ENSEMBL IDs with gene symbols and gene types using biomaRt.
 
 # Load necessary libraries
