@@ -1,5 +1,5 @@
 Differential Expression Analysis (DESeq2)
-Author: David Maison
+Author: Maison et al., 2025
 ==========================================
 
 This directory contains scripts for performing differential expression analysis using DESeq2, annotating results with gene symbols, and generating volcano plots.
