@@ -3,7 +3,7 @@
 # ========================================
 # SRA Data Download Script (Generic Template)
 # ========================================
-# Author: David Maison
+# Author: Maison et al., 2025
 # This script downloads raw FASTQ files from the Sequence Read Archive (SRA)
 # using fasterq-dump.
 # Requires: SRA Toolkit (version ≥ 3.0.0)
